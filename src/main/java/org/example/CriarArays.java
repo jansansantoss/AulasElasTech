@@ -5,7 +5,7 @@ package org.example;
 
 public class CriarArays {
     static void main(String[] args) {
-        String[] nomes = {"Ana", "Bruno", "Carlos", "Mariana", "Eduardo"};
+        String[] nomes = {"Ana", "Bruno", "Carliane", "Mariana", "Flora"};
         System.out.println("Primeiro: " + nomes[0] + "\nTerceiro: " + nomes[2] + "\nÚltimo: " + nomes[4]);
     }
 }
