@@ -1,6 +1,9 @@
+// 1 — Faça um programa que peça dois números inteiros e mostre a divisão do primeiro pelo segundo. Se a pessoa digitar 0 no segundo, trate a ArithmeticException e mostre uma mensagem explicando que não dá pra dividir por zero.//
+
+
 import java.util.Scanner;
 
-public class DividirPorZero {
+public class dividirPorZero {
 
     static void main(String[] args) {
 
