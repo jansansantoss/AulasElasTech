@@ -1,7 +1,11 @@
 
+//2 — Crie um array com 5 notas. Peça uma posição para a pessoa e mostre a nota daquela posição. Se a posição não existir, trate a ArrayIndexOutOfBoundsException e avise que o array só vai de 0 a 4.//
+
+
+
 import java.util.Scanner;
 
-public class NotaArray {
+public class notaArray {
 
     static void main(String[] args) {
 
