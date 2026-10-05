@@ -1,9 +1,7 @@
-
-//5 — Peça um número para a pessoa e mostre o resto da divisão de 100 por esse número. Trate a ArithmeticException para o caso de ela digitar 0.//
+// 6 — Crie um array com 3 nomes. Mostre o nome da posição 5 de propósito e trate a ArrayIndexOutOfBoundsException com a mensagem "Essa posição não existe." Depois do try/catch, imprima "O programa continua funcionando."//
 
 import java.util.Scanner;
-
-public class numeroPessoa {
+public class TresNotas {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.print("Digite um número inteiro: ");
@@ -15,4 +13,3 @@ public class numeroPessoa {
         }
     }
 }
-
